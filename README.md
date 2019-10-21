@@ -6,4 +6,4 @@ The included files are the images of the two layouts and schematics. The Bode, P
 
 Op-Amp including the input bias.
 ## Op-Amp-NoResistors-Layout
-![Op-Amp-NoResistors-Layout](Op-Amp-NoResistors-Layout.PNG)
+![Op-Amp-NoResistors-Layout](Op-Amp-NoResistors-Layout.png)
